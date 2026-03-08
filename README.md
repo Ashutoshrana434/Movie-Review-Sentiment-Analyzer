@@ -72,6 +72,7 @@ TensorFlow / Keras
 NumPy
 Pickle
 Streamlit Option Menu
+AWS EC2
 
 ---
 
