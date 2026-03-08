@@ -21,7 +21,7 @@ The application is deployed on **AWS EC2** using a Streamlit server.
 
 Access the live app:
 
-http://YOUR_AWS_PUBLIC_IP:8501
+[http://YOUR_AWS_PUBLIC_IP:8501](http://15.206.194.158:8501/)
 
 ---
 
