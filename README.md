@@ -66,13 +66,16 @@ Sentiment Prediction
 
 # 🛠 Tech Stack
 
-Python
-Streamlit
-TensorFlow / Keras
-NumPy
-Pickle
-Streamlit Option Menu
-AWS EC2
+### 🛠 Tech Stack
+
+• Python
+• Streamlit
+• TensorFlow
+• Keras 
+• NumPy
+• Pickle
+• Streamlit Option Menu
+• AWS EC2
 
 ---
 
