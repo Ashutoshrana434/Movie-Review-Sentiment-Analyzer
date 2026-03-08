@@ -15,13 +15,19 @@ The app allows users to enter movie reviews and receive **real-time sentiment pr
 
 ---
 
-# 🚀 Live Deployment (AWS)
+## AWS Deployment
 
-The application is deployed on **AWS EC2** using a Streamlit server.
-
-Access the live app:
+### Live Application
 
 [http://YOUR_AWS_PUBLIC_IP:8501](http://15.206.194.158:8501/)
+
+### EC2 Instance
+
+<img width="1901" height="863" alt="image" src="https://github.com/user-attachments/assets/f951fadd-3b9e-448c-a541-72f94000a69a" />
+
+### Streamlit Server Running
+
+<img width="1908" height="928" alt="image" src="https://github.com/user-attachments/assets/3c8bd434-3a80-4eee-9d67-15ae90ea385a" />
 
 ---
 
@@ -162,7 +168,7 @@ Confidence: 93.41%
 
 ## 📬 Contact
 
-For questions or feedback, reach out to [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
+For questions or feedback, reach out to [your-email@example.com](mailto:reachtoashurana.com) or open an issue on GitHub.
 
 ---
 
